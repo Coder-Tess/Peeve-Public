@@ -1,5 +1,5 @@
 <addons>
-<addon id="plugin.program.peevewizard" name="Peeve Wizard" version="1.4.10" provider-name="drinfernoo">
+<addon id="plugin.program.peevewizard" name="Peeve Wizard" version="1.4.11" provider-name="drinfernoo">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
