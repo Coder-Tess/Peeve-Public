@@ -1,0 +1,15 @@
+<builds>
+    <build name="Peeve Public">
+        <version>1.0.0-beta</version>
+        <url>https://github.com/Coder-Tess/Peeve-Public/releases/download/v1.0.0-beta/Peeve-Public-v1.0.0-beta.zip</url>
+        <minor>0</minor>
+        <gui></gui>
+        <kodi>21.0</kodi>
+        <theme></theme>
+        <icon></icon>
+        <fanart></fanart>
+        <preview></preview>
+        <adult>no</adult>
+        <description>Peeve Public Netflix-style Kodi build - Beta</description>
+    </build>
+</builds>
